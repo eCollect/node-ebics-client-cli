@@ -1,5 +1,5 @@
 {
-  "name": "keys-tool",
+  "name": "ebics-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
