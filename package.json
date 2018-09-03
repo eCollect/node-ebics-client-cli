@@ -1,13 +1,13 @@
 {
   "name": "ebics-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "repository": {
     "git": "https://github.com/eCollect/node-ebics-client-cli"
   },
   "bin": {
-    "node-ebics": "./bin/keys.js"
+    "ebics-cli": "./bin/keys.js"
   },
   "author": "eCollect AG.",
   "license": "MIT",
