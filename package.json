@@ -1,0 +1,22 @@
+{
+  "name": "keys-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "git": "https://github.com/eCollect/node-ebics-client-cli"
+  },
+  "bin": {
+    "node-ebics": "./bin/keys.js"
+  },
+  "author": "eCollect AG.",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-ecollect-base": "^0.0.1",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}

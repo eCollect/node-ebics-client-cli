@@ -1,0 +1,14 @@
+npm-debug.log
+node_modules/
+.DS_Store
+*.local.json5
+yarn.lock
+/temp
+/project.sublime-workspace
+/.idea
+/.vscode
+package-lock.json
+/api/server.pid
+/app/server.pid
+/samples
+/fixtures
